@@ -26,7 +26,6 @@
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"child","path":"objects/child/child.yy",},},
     {"id":{"name":"fake_code_UI","path":"objects/fake_code_UI/fake_code_UI.yy",},},
-    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"pizza_ground","path":"objects/pizza_ground/pizza_ground.yy",},},
     {"id":{"name":"pizza","path":"objects/pizza/pizza.yy",},},
     {"id":{"name":"springbonnie","path":"objects/springbonnie/springbonnie.yy",},},
