@@ -7,8 +7,14 @@ if timer == 0{
 }
 
 glitchTime = 55;
+glitchTimeAgain = 40;
 
 if glitchTime == timer{
     glitched_Out = true;
     timer = glitchTime;
+}
+
+if glitchTimeAgain == timer{
+    glitched_OutAgain = true;
+    timer = glitchTimeAgain;
 }
