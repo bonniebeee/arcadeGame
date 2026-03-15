@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-keyboard_string = "";
 target_string = "recolor_background(RETRO);";
 index = ""
 
@@ -13,3 +12,7 @@ function glitch(string_check){
     instance_activate_object(o_fix_background);
     target_string = string_check;
 }
+
+//if (!keyboard_string == ""){
+    //keyboard_string = "";
+//}

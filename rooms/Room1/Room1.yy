@@ -61,8 +61,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"untitled_aracadeGame",
-    "path":"untitled_aracadeGame.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

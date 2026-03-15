@@ -12,9 +12,11 @@ glitchTimeAgain = 40;
 if glitchTime == timer{
     glitched_Out = true;
     timer = glitchTime;
+    keyboard_string = "";
 }
 
 if glitchTimeAgain == timer{
     glitched_OutAgain = true;
     timer = glitchTimeAgain;
+    keyboard_string = "";
 }
